@@ -1,5 +1,7 @@
 # Docker 
 
+- docker run -----
+- docker ps
 - docker build -t image_name .
 - docker images
 
